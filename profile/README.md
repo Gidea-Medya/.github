@@ -160,7 +160,7 @@ graph LR
 **[gidea.tr](https://gidea.tr)**
 
 ### 📧 E-posta
-**info@gidea.tr**
+**bilgi@gidea.tr**
 
 ### 📍 Adres
 **İzmir, Türkiye**
